@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Costumer unit tests should trow error when id is empty: Id is required 1`] = `"Costumer invalid"`;
+
+exports[`Costumer unit tests should trow error when name is empty: Name is required 1`] = `"Costumer invalid"`;
